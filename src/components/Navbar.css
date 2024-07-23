@@ -1,0 +1,92 @@
+
+.Navbar {
+  background-color: white;
+  color: #5e5c5a;
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+
+
+.navbar-menu {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 100%;
+  padding: 0 20px;
+  z-index: 1;
+  position: relative;
+}
+
+.navbar-links {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin: 0 1rem;
+}
+
+.navbar-links a {
+  color: #5e5c5a;
+  text-decoration: none;
+}
+
+.navbar-links a:hover {
+  color: #ccc;
+}
+
+.menu-icon {
+  display: none;
+  background-color:var(--main-brand-color);
+  color: hsl(30, 2%, 36%);
+}
+
+.drawer-links {
+  list-style-type: none;
+  padding: 0;
+}
+
+.drawer-links li {
+  margin: 1rem 0;
+}
+
+.drawer-links a {
+  color: #5e5c5a;
+  text-decoration: none;
+}
+
+.drawer-links a:hover {
+  color: #ccc;
+}
+
+.NavbarDivider {
+  width: 100%;
+  border: none;
+  border-top: 3px solid var(--main-brand-color);
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .navbar-links {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+}
+
+@media screen and  (max-width:460px) and (min-width:250px)  {
+
+.NavbarDivider {
+  width:65vh;}
+  
+
+}

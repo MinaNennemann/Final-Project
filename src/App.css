@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap'); :root {
+  font-family: "Archivo", sans-serif;
+  font-weight: 300;
+   --main-brand-color: hsl(259, 17%, 72%);
+  --primary-color:  hsl(30, 2%, 36%);
+  --light-secondary-color:  hsl(259, 46%, 75%);
+} 
+
+.App{
+display: flex;
+flex-direction: column;
+
+
+
+
+}
+ body {
+  font-family: "Archivo", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+
+
+
+ h1, h2, h3, h4{
+  font-weight: bold;
+  font-family: Overpass;
+  font-size: 32px;
+text-align: center;
+ color:  var(--main-brand-color) !important;
+} 
+
+h5{
+  font-size: 24px;
+    font-weight: 500;
+    color: hsl(40, 2%, 33%);
+    font-style: italic;
+    text-align: center;
+}

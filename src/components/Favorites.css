@@ -1,0 +1,20 @@
+
+
+
+
+.favorites h5{
+    color: var(#5e5c5a);
+    font-style: italic;
+    font-weight: bold;
+ }
+
+ /* .favorites  .ant-list-item{
+
+    text-align: center;
+  
+ } */
+
+ .favorites {
+
+    padding:70px 100px;
+ }

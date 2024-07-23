@@ -1,0 +1,637 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "author_name": "Virginia Woolf",
+      "img": "/images/Virginia.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quotes": [
+        {
+          "id_quote": 0,
+          "quote": "I would venture to guess that Anon, who wrote so many poems without signing them, was often a woman.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+           
+        },
+        {
+          "id_quote": 1,
+          "quote": "Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 2,
+          "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 3,
+          "quote": "A woman must have money and a room of her own if she is to write fiction.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 4,
+          "quote": "The history of men's opposition to women's emancipation is more interesting perhaps than the story of that emancipation itself.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 5,
+          "quote": "So long as you write what you wish to write, that is all that matters; and whether it matters for ages or only for hours, nobody can say.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 6,
+          "quote": "Literature is strewn with the wreckage of those who have minded beyond reason the opinion of others.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 7,
+          "quote": "Anything may happen when womanhood has ceased to be a protected occupation.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 8,
+          "quote": "Fiction is like a spider's web, attached ever so lightly perhaps, but still attached to life at all four corners.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 9,
+          "quote": "There is no gate, no lock, no bolt that you can set upon the freedom of my mind.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 10,
+          "quote": "Women and fiction remain, so far as I am concerned, unsolved problems.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 11,
+          "quote": "It is strange how a scrap of poetry works in the mind and makes the legs move in time to it along the road.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 12,
+          "quote": "It is much more important to be oneself than anything else. Do not dream of influencing other people...Think of things in themselves.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 13,
+          "quote": "For most of history, Anonymous was a woman.",
+          "year": 1929,
+          "book": "A Room of One's Own",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 14,
+          "quote": "One cannot find peace in work or in pleasure, in the world or in a convent, but only in one's soul.",
+          "year": 1931,
+          "book": "The Waves",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 15,
+          "quote": "I am made and remade continually. Different people draw different words from me.",
+          "year": 1931,
+          "book": "The Waves",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 16,
+          "quote": "The eyes of others our prisons; their thoughts our cages.",
+          "year": 1931,
+          "book": "The Waves",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 17,
+          "quote": "I am rooted, but I flow.",
+          "year": 1931,
+          "book": "The Waves",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 18,
+          "quote": "The world wavered and quivered and threatened to burst into flames.",
+          "year": 1925,
+          "book": "Mrs Dalloway",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 19,
+          "quote": "He who robs us of our dreams robs us of our life.",
+          "year": 1925,
+          "book": "Mrs Dalloway",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 20,
+          "quote": "Fear no more, says the heart, committing its burden to some sea, which sighs collectively for all sorrows, and renews, begins, collects, lets fall.",
+          "year": 1925,
+          "book": "Mrs Dalloway",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 21,
+          "quote": "To the Lighthouse, and to marriage, and to death; to the Lighthouse, and to the children in the garden.",
+          "year": 1927,
+          "book": "To the Lighthouse",
+          "author_name": "Virginia Woolf"
+        },
+        {
+          "id_quote": 22,
+          "quote": "For nothing was simply one thing.",
+          "year": 1927,
+          "book": "To the Lighthouse",
+          "author_name": "Virginia Woolf"
+        }]},
+     
+       
+  
+    {
+      "id": 1,
+      "author_name": "Jane Austen",
+      "img": "/images/Jane.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quotes": [
+        {
+          "id_quote": 23,
+          "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 24,
+          "quote": "I declare after all there is no enjoyment like reading! How much sooner one tires of anything than of a book!",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 25,
+          "quote": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 26,
+          "quote": "There is no charm equal to tenderness of heart.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 27,
+          "quote": "I have not the pleasure of understanding you.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 28,
+          "quote": "My good opinion once lost is lost forever.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 29,
+          "quote": "To be fond of dancing was a certain step towards falling in love.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 30,
+          "quote": "You must be the best judge of your own happiness.",
+          "year": 1815,
+          "book": "Emma",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 31,
+          "quote": "There is no charm equal to tenderness of heart.",
+          "year": 1815,
+          "book": "Emma",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 32,
+          "quote": "Seldom, very seldom, does complete truth belong to any human disclosure; seldom can it happen that something is not a little disguised, or a little mistaken.",
+          "year": 1815,
+          "book": "Emma",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 33,
+          "quote": "One half of the world cannot understand the pleasures of the other.",
+          "year": 1815,
+          "book": "Emma",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 34,
+          "quote": "Friendship is certainly the finest balm for the pangs of disappointed love.",
+          "year": 1811,
+          "book": "Sense and Sensibility",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 35,
+          "quote": "Know your own happiness. You want nothing but patience - or give it a more fascinating name, call it hope.",
+          "year": 1811,
+          "book": "Sense and Sensibility",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 36,
+          "quote": "It isn't what we say or think that defines us, but what we do.",
+          "year": 1811,
+          "book": "Sense and Sensibility",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 37,
+          "quote": "I can never be important to anyone.",
+          "year": 1811,
+          "book": "Sense and Sensibility",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 38,
+          "quote": "I could easily forgive his pride, if he had not mortified mine.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 39,
+          "quote": "If I loved you less, I might be able to talk about it more.",
+          "year": 1815,
+          "book": "Emma",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 40,
+          "quote": "A woman, especially, if she have the misfortune of knowing anything, should conceal it as well as she can.",
+          "year": 1818,
+          "book": "Northanger Abbey",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 41,
+          "quote": "There is nothing I would not do for those who are really my friends.",
+          "year": 1818,
+          "book": "Northanger Abbey",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 42,
+          "quote": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+          "year": 1818,
+          "book": "Northanger Abbey",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 43,
+          "quote": "The more I know of the world, the more am I convinced that I shall never see a man whom I can really love.",
+          "year": 1814,
+          "book": "Mansfield Park",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 44,
+          "quote": "There are as many forms of love as there are moments in time.",
+          "year": 1814,
+          "book": "Mansfield Park",
+          "author_name": "Jane Austen"
+        },
+        {
+          "id_quote": 45,
+          "quote": "You must allow me to tell you how ardently I admire and love you.",
+          "year": 1813,
+          "book": "Pride and Prejudice",
+          "author_name": "Jane Austen"
+          }]},
+    {
+      "id": 2,
+      "author_name": "Charlotte Brontë",
+      "img": "/images/Charlotte.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quotes": [
+        {
+          "id_quote": 46,
+          "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+          "year": 1847,
+          "book": "Jane Eyre",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 47,
+          "quote": "Better to be without logic than without feeling.",
+          "year": 1849,
+          "book": "Shirley",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 48,
+          "quote": "Life appears to me too short to be spent in nursing animosity or registering wrongs.",
+          "year": 1853,
+          "book": "Villette",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 49,
+          "quote": "Conventionality is not morality. Self-righteousness is not religion. To attack the first is not to assail the last.",
+          "year": 1853,
+          "book": "The Professor",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 50,
+          "quote": "Life appears to me too short to be spent in nursing animosity or registering wrongs.",
+          "year": 1847,
+          "book": "Jane Eyre",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 51,
+          "quote": "I try to avoid looking forward or backward, and try to keep looking upward.",
+          "year": 1847,
+          "book": "Jane Eyre",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 52,
+          "quote": "Conventionality is not morality. Self-righteousness is not religion. To attack the first is not to assail the last.",
+          "year": 1847,
+          "book": "Jane Eyre",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 53,
+          "quote": "The soul, fortunately, has an interpreter - often an unconscious but still a truthful interpreter - in the eye.",
+          "year": 1847,
+          "book": "Jane Eyre",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 54,
+          "quote": "I am not talking to you now through the medium of custom, conventionalities, or even of mortal flesh:—it is my spirit that addresses your spirit; just as if both had passed through the grave, and we stood at God’s feet, equal,—as we are!",
+          "year": 1847,
+          "book": "Jane Eyre",
+          "author_name": "Charlotte Brontë"
+        },
+        {
+          "id_quote": 55,
+          "quote": "Reader, I married him.",
+          "year": 1847,
+          "book": "Jane Eyre",
+          "author_name": "Charlotte Brontë"
+          }]},
+    {
+      "id": 4,
+      "author_name": "Margaret Atwood",
+      "img": "/images/Margaret.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quotes": [
+        {
+          "id_quote": 56,
+          "quote": "A word after a word after a word is power.",
+          "year": 1981,
+          "book": "True Stories",
+          "author_name": "Margaret Atwood"
+        },
+        {
+          "id_quote": 57,
+          "quote": "In the end, we'll all become stories.",
+          "year": 1995,
+          "book": "Moral Disorder",
+          "author_name": "Margaret Atwood"
+        },
+        {
+          "id_quote": 58,
+          "quote": "Don't let the bastards grind you down.",
+          "year": 19,
+          "book": "Cat's Eye",
+          "author_name": "Margaret Atwood"
+        },
+        {
+          "id_quote": 59,
+          "quote": "War is what happens when language fails.",
+          "year": 1981,
+          "book": "Survival: A Thematic Guide to Canadian Literature",
+          "author_name": "Margaret Atwood"
+        },
+        {
+          "id_quote": 60,
+          "quote": "Men are afraid that women will laugh at them. Women are afraid that men will kill them.",
+          "year": 1985,
+          "book": "The Handmaid's Tale",
+          "author_name": "Margaret Atwood"          
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author_name": "Simone de Beauvoir",
+      "img": "/images/Simone.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quotes": [
+        {
+          "id_quote": 61,
+          "quote": "One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.",
+          "year": 1949,
+          "book": "The Second Sex",
+          "author_name": "Simone de Beauvoir"
+        },
+        {
+          "id_quote": 62,
+          "quote": "Representation of the world, like the world itself, is the work of men; they describe it from their own point of view, which they confuse with the absolute truth.",
+          "year": 1954,
+          "book": "The Mandarins",
+          "author_name": "Simone de Beauvoir"
+        },
+        {
+          "id_quote": 63,
+          "quote": "I tore myself away from the safe comfort of certainties through my love for truth — and truth rewarded me.",
+          "year": 1960,
+          "book": "Memoirs of a Daughter",
+          "author_name": "Simone de Beauvoir"
+        },
+        {
+          "id_quote": 64,
+          "quote": "One is not born, but rather becomes, a woman.",
+          "year": 1949,
+          "book": "The Coming of Age",
+          "author_name": "Simone de Beauvoir"
+        },
+        {
+          "id_quote": 65,
+          "quote": "Self-knowledge is no guarantee of happiness, but it is on the side of happiness and can supply the courage to fight for it.",
+          "year": 1947,
+          "book": "The Ethics of Ambiguity",
+          "author_name": "Simone de Beauvoir"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "author_name": "Ursula K. Le Guin",
+      "img": "/images/Ursula.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "quotes": [
+        {
+          "id_quote": 66,
+          "quote": "The creative adult is the child who survived.",
+          "year": 1974,
+          "book": "The Gift of the Child",
+          "author_name": "Ursula K. Le Guin"
+        },
+        {
+          "id_quote": 67,
+          "quote": "It is good to have an end to journey toward; but it is the journey that matters, in the end.",
+          "year": 1969,
+          "book": "Left Hand of Darkness",
+          "author_name": "Ursula K. Le Guin"
+        },
+        {
+          "id_quote": 68,
+          "quote": "Freedom is a heavy load, a great and strange burden for the spirit to undertake. It is not easy. It is not a gift given, but a choice made, and the choice may be a hard one.",
+          "year": 1974,
+          "book": "The Dispossessed",
+          "author_name": "Ursula K. Le Guin"
+        },
+        {
+          "id_quote": 69,
+          "quote": "Love doesn't just sit there, like a stone; it has to be made, like bread, remade all the time, made new.",
+          "year": 1994,
+          "book": "The Lathe of Heaven",
+          "author_name": "Ursula K. Le Guin"
+        },
+        {
+          "id_quote": 70,
+          "quote": "Freedom is a heavy load, a great and strange burden for the spirit to undertake. It is not easy. It is not a gift given, but a choice made, and the choice may be a hard one. The road goes upward towards the light; but the laden traveler may never reach the end of it.",
+          "year": 1971,
+          "book": "The Tombs of Antuan",
+          "author_name": "Ursula K. Le Guin"
+        }
+  ]
+},
+{
+  "id": 6,
+  "author_name": "J.K. Rowling",
+  "img": "/images/JK1.jpg",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "quotes": [
+    {
+      "id_quote": 71,
+      "quote": "It is the unknown we fear when we look upon death and darkness, nothing more.",
+      "year": 2005,
+      "book": "Harry Potter and the Half-Blood Prince",
+      "author_name": "J.K. Rowling"
+    },
+    {
+      "id_quote": 72,
+      "quote": "Do not pity the dead, Harry. Pity the living, and above all, those who live without love.",
+      "year": 2007,
+      "book": "Harry Potter and the Deathly Hallows",
+      "author_name": "J.K. Rowling"
+    },
+    {
+      "id_quote": 73,
+      "quote": "The stories we love best do live in us forever.",
+      "year": 2016,
+      "book": "Harry Potter and the Cursed Child",
+      "author_name": "J.K. Rowling"
+    },
+    {
+      "id_quote": 74,
+      "quote": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "year": 2008,
+      "book": "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination",
+      "author_name": "J.K. Rowling"
+    },
+    {
+      "id_quote": 85,
+      "quote": "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution.",
+      "year": 1997,
+      "book": "Harry Potter and the Philosopher's Stone",
+      "author_name": "J.K. Rowling"
+    }
+  ]
+},
+{
+  "id": 7,
+  "author_name": "Alice Walker",
+  "img": "/images/Alice1.jpg",
+  "description":  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "quotes": [
+    {
+      "id_quote": 81,
+      "quote": "The most common way people give up their power is by thinking they don't have any.",
+      "year": 1982,
+      "book": "Everyday Use",
+      "author_name": "Alice Walker"
+    },
+    {
+      "id_quote": 82,
+      "quote": "Look closely at the present you are constructing: it should look like the future you are dreaming.",
+      "year": 1997,
+      "book": "The Way Forward Is with a Broken Heart",
+      "author_name": "Alice Walker"
+    },
+    {
+      "id_quote": 83,
+      "quote": "I think it pisses God off if you walk by the color purple in a field somewhere and don't notice it.",
+      "year": 1982,
+      "book": "The Color Purple",
+      "author_name": "Alice Walker"
+    },
+    {
+      "id_quote": 84,
+      "quote": "In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they're still beautiful.",
+      "year": 1988,
+      "book": "Living by the Word: Selected Writings 1973-1987",
+      "author_name": "Alice Walker"
+    },
+    {
+      "id_quote": 85,
+      "quote": "No person is your friend who demands your silence, or denies your right to grow.",
+      "year": 1983,
+      "book": "In Search of Our Mothers' Gardens: Womanist Prose",
+      "author_name": "Alice Walker"
+    }
+  ]
+}
+
+  ]
+}
+
+
+  

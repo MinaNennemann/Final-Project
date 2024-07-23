@@ -1,0 +1,61 @@
+.quote-of-the-day {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+    height: 100vh; 
+    background: white;
+    padding: 20px;
+}
+
+.quote-card {
+    width: 100%;
+    max-width: 600px; 
+    text-align: center;
+    background: #fff; 
+    border-radius: 12px; 
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+    margin-bottom: 50px; 
+}
+
+.quote-content {
+    margin: 20px 0;
+}
+
+.quote-content .ant-typography {
+    font-size: 24px; 
+    font-weight: 500; 
+    color: hsl(40, 2%, 33%); 
+    font-style: italic; 
+}
+
+.btn {
+    background-color: var(--main-brand-color); 
+    box-shadow: 0 10px 16px 0  rgba(164, 82, 176, 0.356),
+    0 10px 20px 0 rgba(155, 67, 169, 0.356);
+    border-radius: 2em;
+    height: 3.5em;
+    padding: 1px 6px;
+    border: none;
+    width: 50px;
+    color:white;
+}
+
+.ant-btn:hover {
+    background-color: #b3a0dc;
+    transform: scale(1.1);
+  }
+  
+
+.ant-spin {
+    margin-top: 20px;
+color: #b3a0dc;
+}
+
+
+
+
+
+
+
