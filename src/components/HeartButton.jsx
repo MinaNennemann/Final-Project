@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Button } from 'antd';
-import { HeartOutlined, HeartFilled, DeleteOutlined  } from '@ant-design/icons';
+import { HeartOutlined, HeartFilled  } from '@ant-design/icons';
 
-function HeartButton({ quote, onToggleLike, onDelete }) {
+function HeartButton({ quote, onToggleLike }) {
   const [liked, setLiked] = useState(false);
 
   useEffect(() => {
@@ -34,12 +34,7 @@ function HeartButton({ quote, onToggleLike, onDelete }) {
       icon={liked ? <HeartFilled /> : <HeartOutlined />}   
       onClick={toggleLike}
     />
-    <Button 
-      type="primary" className='heart-button'
-      shape="circle" 
-      icon={liked ? <HeartFilled /> : <HeartOutlined />}   
-      onClick={toggleLike}
-    />
+   
 </div>
   );
 }
