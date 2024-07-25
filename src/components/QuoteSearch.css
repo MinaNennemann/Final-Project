@@ -1,9 +1,4 @@
 
-  .quote-search-input {
-    flex: 1;
-    margin-right: 10px;
-  }
-  
   .quote-search-section {
     display: flex;
     justify-content: center;
@@ -22,6 +17,7 @@
         height: 3em;
         padding: 0 10px;
         margin-top: 50px;
+        
       }
     
     

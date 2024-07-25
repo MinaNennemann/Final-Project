@@ -11,11 +11,11 @@ const QuoteSearch = ({ data, onSearch }) => {
       return;
     }
 
-    const searchResults = data .map(author => author.quotes.filter(quote => 
+    const searchResults = data.flatMap(author => author.quotes.filter(quote => 
       quote.quote.toLowerCase().includes(searchWord.toLowerCase())
         )
       )
-      .reduce((acc, quotes) => acc.concat(quotes), []);
+     ;
 
     onSearch(searchResults);
   };
