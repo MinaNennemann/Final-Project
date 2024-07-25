@@ -12,8 +12,7 @@ import About from "./components/Pages/AboutMe";
 import Authors from "./components/Authors";
 import QuoteOfTheDay from "./components/QuoteOfTheDay";
 
-// import QuoteSearch from "./components/QuoteSearch";
-// import AboutMe from "./components/AboutMe";
+
 
 function App() {
   return (
