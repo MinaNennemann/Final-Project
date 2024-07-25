@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './QuoteSearch.css';
 
-
 const QuoteSearch = ({ data, onSearch }) => {
   const [searchWord, setSearchWord] = useState('');
 
@@ -11,11 +10,11 @@ const QuoteSearch = ({ data, onSearch }) => {
       return;
     }
 
-    const searchResults = data.flatMap(author => author.quotes.filter(quote => 
-      quote.quote.toLowerCase().includes(searchWord.toLowerCase())
-        )
+    const searchResults = data.flatMap(author =>
+      author.quotes.filter(quote => 
+        quote.quote.toLowerCase().includes(searchWord.toLowerCase())
       )
-     ;
+    );
 
     onSearch(searchResults);
   };
@@ -24,7 +23,9 @@ const QuoteSearch = ({ data, onSearch }) => {
     <div className="quote-search-section">
       <input
         type="text"
-        placeholder="Search for a quote" value={searchWord} onChange={(e) => setSearchWord(e.target.value)}
+        placeholder="Search for a quote"
+        value={searchWord}
+        onChange={(e) => setSearchWord(e.target.value)}
       />
       <button onClick={handleSearch}> > </button>
     </div>
