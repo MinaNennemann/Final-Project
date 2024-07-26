@@ -1,8 +1,4 @@
-/* *,
-*::before,
-*::after {
-  box-sizing: border-box;
-} */
+
 
 .home {
   flex: 1; 
@@ -12,7 +8,6 @@
   background-color: white;
   flex-direction: column;
   box-sizing: border-box;
-  /* min-width: 90vh; */
 }
 
 
